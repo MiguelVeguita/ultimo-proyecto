@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - piso
+  - portal
+  - balita
+  - "mu\xF1equin"
+  - puerta
+  - falso
+  - limtador
+  - perro
+  - arabot
+  - caracol
+  - superarabot
+  - misil
+  - coso
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - portales
+  - bala
+  - enemigos
+  - paredes
+  - "mu\xF1equin"
+  - pisos
+  - obstaculos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
